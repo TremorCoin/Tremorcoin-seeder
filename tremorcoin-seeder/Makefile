@@ -1,5 +1,3 @@
-all: dnsseed clean
-
 CXXFLAGS = -O3 -g0
 LDFLAGS = $(CXXFLAGS)
 
